@@ -1,0 +1,160 @@
+####################################################################################################
+Package:CommunityToolkit.Labs.WinUI.SettingsControls
+Version:0.0.10
+project URL:https://github.com/CommunityToolkit/Labs-Windows
+Description:This package contains the SettingsCard and SettingsExpander controls.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:CommunityToolkit.Mvvm
+Version:8.0.0
+project URL:https://github.com/CommunityToolkit/dotnet
+Description:This package includes a .NET MVVM library with helpers such as:
+      - ObservableObject: a base class for objects implementing the INotifyPropertyChanged interface.
+      - ObservableRecipient: a base class for observable objects with support for the IMessenger service.
+      - ObservableValidator: a base class for objects implementing the INotifyDataErrorInfo interface.
+      - RelayCommand: a simple delegate command implementing the ICommand interface.
+      - AsyncRelayCommand: a delegate command supporting asynchronous operations and cancellation.
+      - WeakReferenceMessenger: a messaging system to exchange messages through different loosely-coupled objects.
+      - StrongReferenceMessenger: a high-performance messaging system that trades weak references for speed.
+      - Ioc: a helper class to configure dependency injection service containers.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:coverlet.collector
+Version:3.1.2
+project URL:https://github.com/coverlet-coverage/coverlet
+Description:Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:H.NotifyIcon.WinUI
+Version:2.0.75
+project URL:
+Description:This is an implementation of a NotifyIcon (aka system tray icon or taskbar icon) for the WinUI platform.
+It does not just rely on the Windows Forms NotifyIcon component,
+but is a purely independent control which leverages several features of the WinUI framework in order to display rich tooltips,
+popups, context menus, and balloon messages. It can be used directly in code or embedded in any XAML file.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:H.OxyPlot.WinUI
+Version:0.9.19
+project URL:https://github.com/oxyplot/oxyplot
+Description:OxyPlot is a plotting library for .NET. This is package contains the UWP/WinUI/Uno implementation.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:LibreHardwareMonitorLib
+Version:0.9.1
+project URL:https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+Description:Monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
+licenseUrl:https://licenses.nuget.org/MPL-2.0
+license Type:MPL-2.0
+
+####################################################################################################
+Package:Microsoft.Extensions.Hosting
+Version:7.0.0
+project URL:https://dot.net/
+Description:Hosting and startup infrastructures for applications.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:Microsoft.NET.Test.Sdk
+Version:17.4.1
+project URL:https://github.com/microsoft/vstest/
+Description:The MSbuild targets and properties for building .NET test projects.
+licenseUrl:https://www.nuget.org/packages/Microsoft.NET.Test.Sdk/17.4.1/License
+license Type:LICENSE_NET.txt
+
+####################################################################################################
+Package:Microsoft.WindowsAppSDK
+Version:1.1.4
+project URL:https://github.com/microsoft/windowsappsdk
+Description:The Windows App SDK empowers all Windows Desktop apps with modern Windows UI, APIs, and platform features, including back-compat support.
+licenseUrl:https://www.nuget.org/packages/Microsoft.WindowsAppSDK/1.1.4/License
+license Type:license.txt
+
+####################################################################################################
+Package:Microsoft.Xaml.Behaviors.WinUI.Managed
+Version:2.0.9
+project URL:http://go.microsoft.com/fwlink/?LinkID=651678
+Description:Easily add interactivity to your WinUI apps using XAML Behaviors. Behaviors encapsulate reusable functionalities for elements that can be easily added to your XAML without the need for more imperative code. This is the managed version for C# UWP WinUI projects.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:Moq
+Version:4.18.4
+project URL:https://github.com/moq/moq4
+Description:Moq is the most popular and friendly mocking framework for .NET.
+
+Built from https://github.com/moq/moq4/tree/042a2ebbe
+licenseUrl:https://raw.githubusercontent.com/moq/moq4/main/License.txt
+license Type:
+
+####################################################################################################
+Package:MSTest.TestAdapter
+Version:3.0.2
+project URL:https://github.com/microsoft/testfx
+Description:The adapter to discover and execute MSTest Framework based tests.
+
+      Supported platforms:
+      - .NET 4.6.2+
+      - .NET Core 3.1+ (Universal Windows Apps 10+)
+      - .NET 6.0
+      - .NET 6.0 Windows.18362+
+      - ASP.NET Core 1.0+
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:MSTest.TestFramework
+Version:3.0.2
+project URL:https://github.com/microsoft/testfx
+Description:This is MSTest V2, the evolution of Microsoft's Test Framework.
+
+      Supported platforms:
+      - .NET 4.6.2+
+      - .NET Core 3.1+ (Universal Windows Apps 10+)
+      - .NET 6.0
+      - .NET 6.0 Windows.18362+
+      - ASP.NET Core 1.0+
+
+      To discover and execute tests install MSTest.TestAdapter.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:Newtonsoft.Json
+Version:13.0.1
+project URL:https://www.newtonsoft.com/json
+Description:Json.NET is a popular high-performance JSON framework for .NET
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:System.Diagnostics.PerformanceCounter
+Version:7.0.0
+project URL:https://dot.net/
+Description:Provides the System.Diagnostics.PerformanceCounter class, which allows access to Windows performance counters.
+
+Commonly Used Types:
+System.Diagnostics.PerformanceCounter
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+
+####################################################################################################
+Package:WinUIEx
+Version:1.8.0
+project URL:https://dotmorten.github.io/WinUIEx
+Description:A set of extension methods and classes to fill some gaps in WinUI 3, mostly around windowing.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+
