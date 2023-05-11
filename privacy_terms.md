@@ -1,3 +1,3 @@
 # Privacy Terms
 
-Add privacy terms here.
+(For Intel/UCL Publishing) Add privacy terms here.
